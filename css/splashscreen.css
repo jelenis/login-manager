@@ -4,10 +4,10 @@
   position: absolute;
   z-index: 999;
   overflow: hidden;
-  background-color: #e57373;
-  background: linear-gradient(45deg, rgba(255,206,202,1) 1%,rgba(227,110,201,1) 84%);
-  background: linear-gradient(45deg, rgba(135,165,255,1) 1%,rgba(91,247,231,1) 84%);
-  background: linear-gradient(45deg, rgba(135,165,255,1) 0%,rgba(255,196,211,1) 58%,rgba(195,247,231,1) 87%,rgba(91,247,231,1) 110%);
+  background-color: #3B4252;
+  #background: linear-gradient(45deg, rgba(255,206,202,1) 1%,rgba(227,110,201,1) 84%);
+  #background: linear-gradient(45deg, rgba(135,165,255,1) 1%,rgba(91,247,231,1) 84%);
+  #background: linear-gradient(45deg, rgba(135,165,255,1) 0%,rgba(255,196,211,1) 58%,rgba(195,247,231,1) 87%,rgba(91,247,231,1) 110%);
 }
 #splashscreen * {
   overflow: hidden;
